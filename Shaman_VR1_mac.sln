@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaman_VR1_mac", "Assembly-CSharp.csproj", "{6C2EC757-DB2B-8633-BF8A-54A10B09C6DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaman_VR1_mac", "Assembly-CSharp-Editor.csproj", "{DBABE0B0-4B95-5405-3722-9A82A457BBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2EC757-DB2B-8633-BF8A-54A10B09C6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2EC757-DB2B-8633-BF8A-54A10B09C6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2EC757-DB2B-8633-BF8A-54A10B09C6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2EC757-DB2B-8633-BF8A-54A10B09C6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBABE0B0-4B95-5405-3722-9A82A457BBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBABE0B0-4B95-5405-3722-9A82A457BBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBABE0B0-4B95-5405-3722-9A82A457BBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBABE0B0-4B95-5405-3722-9A82A457BBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

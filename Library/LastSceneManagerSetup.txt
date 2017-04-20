@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Shaman_AR1_mac.unity
+  isLoaded: 1
+  isActive: 1
